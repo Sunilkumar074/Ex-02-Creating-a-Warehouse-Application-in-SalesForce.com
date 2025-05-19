@@ -1,6 +1,6 @@
 # Ex-02-Creating-a-Warehouse-Application-in-SalesForce.com
 
-# Name: SUNIL KUMQR P.B
+# Name: SUNIL KUMAR P.B
 # Reg.no: 212223040213
 
 ## AIM:
